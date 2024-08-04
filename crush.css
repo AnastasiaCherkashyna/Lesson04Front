@@ -1,0 +1,12 @@
+*{
+    margin: 5px;
+}
+
+div{
+    padding-left: 3px;
+}
+p {
+    margin: 15px; margin-left: auto;
+    padding-top: 10px;
+    font-size: medium;
+}
